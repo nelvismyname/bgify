@@ -6,5 +6,5 @@ a simple website to change the background color for lights or other purposes
 # building
 ```
 git clone https://github.com/nelvismyname/bgify.git
-
 ```
+
